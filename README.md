@@ -11,4 +11,4 @@ Working functionalities:
 
 # Screenshots
 
-![Preview 1](/preview?raw=true "Preview")
+![Preview 1](/preview.png?raw=true "Preview")
